@@ -1,1 +1,1 @@
-kirjutasin midagi juurde
+python test_supabase.py
